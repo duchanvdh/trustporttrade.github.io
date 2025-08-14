@@ -1,0 +1,8 @@
+<svg width="256" height="56" viewBox="0 0 256 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="56" rx="12" fill="#0b1e3b"/>
+  <g transform="translate(10,8)">
+    <path d="M8 20 L16 8 L24 20 L16 32 Z" fill="#caa45f"/>
+    <text x="40" y="24" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">TrustPort</text>
+    <text x="40" y="40" fill="#caa45f" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600">Trade B.V.</text>
+  </g>
+</svg>
