@@ -55,4 +55,19 @@
 }
 
 html { scroll-behavior: smooth; }
+.custom-navbar {
+  background-color: var(--brand-navy); /* Jouw diepblauwe kleur */
+}
+
+.custom-navbar .navbar-nav .nav-link {
+  color: #caa45f; /* Goudkleurige letters */
+}
+
+.custom-navbar .navbar-nav .nav-link:hover {
+  color: #ffffff; /* Wit bij hover */
+}
+
+.custom-navbar .navbar-brand {
+  color: #caa45f; /* Logo tekst in goudkleur */
+}
 
