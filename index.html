@@ -158,7 +158,19 @@
                 <label for="name" class="form-label">Your name</label>
                 <input type="text" class="form-control" id="name" name="name" required>
                 <div class="invalid-feedback">Please enter your name.</div>
-              </div>              
+              </div>
+<div class="mb-3">
+  <label for="salutation" class="form-label">Salutation</label>
+  <select class="form-control" id="salutation" name="salutation" required>
+    <option value="">Please select</option>
+    <option value="Mr.">Mr.</option>
+    <option value="Ms.">Ms.</option>
+    <option value="Mrs.">Mrs.</option>
+    <option value="Dr.">Dr.</option>
+    <option value="Other">Other</option>
+  </select>
+  <div class="invalid-feedback">Please select a salutation.</div>
+</div>              
 			  <div class="mb-3">
                 <label for="phone" class="form-label">Your phone number</label>
                 <input type="tel" class="form-control" id="name" name="name" required>
